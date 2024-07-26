@@ -13,6 +13,8 @@ When exporting as PSD, only the selected groups are retained.
 
 輸出PSD時只會保留所選的群組。
 
+[Tutorial Video](https://youtu.be/J-9lOpz-Ffc?si=B1NEliNRpJGDHPDC)
+
 ### **[TangleKai]_ReverseLayerOrder**
 _____
 Reverse the order of multiple layers at once in Photoshop, used for the order when exporting layers to files or naming layers.
