@@ -85,3 +85,7 @@ _____
 Move "[TangledKai]_ReverseLayerOrder.jsx" to "/Presets/Scripts/" in the Photoshop directory.
 
 The next time Photoshop is opened, you can run the script from File->Scripts->[TangledKai]_ReverseLayerOrder.
+
+### Support:
+_____
+Supported versions: Adobe Photoshop 14.0 to 22.1.0.
