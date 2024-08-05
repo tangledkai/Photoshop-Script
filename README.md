@@ -71,6 +71,14 @@ _____
 * 功能
   * 在Photoshop中一次性反轉多個圖層的順序，用於圖層轉存成檔案或圖層命名時的順序。
 
+### **Kai_PsAction.atn**
+_____
+* Features
+  * Here is the action set for Photoshop. It is more convenient to use after importing the script and then importing the action set..
+* 功能
+  * PS的動作集，腳本導入後再導入動作集比較方便使用。
+![image](https://github.com/user-attachments/assets/8d7e4585-7902-4099-838f-ff09cb49c36b)
+
 ### Instructions:
 _____
 Move "[TangledKai]_ReverseLayerOrder.jsx" to "/Presets/Scripts/" in the Photoshop directory.
