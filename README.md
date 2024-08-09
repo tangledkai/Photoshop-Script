@@ -1,5 +1,5 @@
 # **[TangledKai]-Photoshop-Script**
-
+[Tutorial Video](https://youtu.be/CWBnV4R5OJo?si=nVQG0M1JoMnSmW9M)
 ### **[TangledKai]_FolderImport**
 _____
 * Features
@@ -26,9 +26,6 @@ _____
   * 導出的文件以相應的組別名稱命名，文件會保存在原始PSD文件相同的資料夾中。
   * 儲存成PNG與JPG時會去除中繼資料以減少檔案大小。
   * 輸出PSD時只會保留所選的群組。
-
-[Tutorial Video](https://youtu.be/J-9lOpz-Ffc?si=B1NEliNRpJGDHPDC)
-
 
 ### **[TangledKai]_LayertoGroup**
 _____
