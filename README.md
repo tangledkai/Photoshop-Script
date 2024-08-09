@@ -1,10 +1,8 @@
 # **[TangledKai]-Photoshop-Script**
 
-Photoshop輸出腳本集，提供批次群組依照PSD路徑位置導出，資料夾圖片導入，圖層轉群組，批次群組命名，反轉圖層排序，可以更輕鬆的儲存圖片。
-
-This script package offers batch group export based on PSD path location, folder image import, layer-to-group conversion, batch group renaming, and layer order reversal. It simplifies saving images. For detailed features, please refer to the Readme.
-
-[Tutorial Video](https://youtu.be/CWBnV4R5OJo?si=nVQG0M1JoMnSmW9M)
+* This script package offers batch group export based on PSD path location, folder image import, layer-to-group conversion, batch group renaming, and layer order reversal. It simplifies saving images. For detailed features, please refer to the Readme.
+* Photoshop輸出腳本集，提供批次群組依照PSD路徑位置導出，資料夾圖片導入，圖層轉群組，批次群組命名，反轉圖層排序，可以更輕鬆的儲存圖片。
+* [Tutorial Video](https://youtu.be/CWBnV4R5OJo?si=nVQG0M1JoMnSmW9M)
 
 ### **[TangledKai]_FolderImport**
 _____
